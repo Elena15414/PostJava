@@ -1,7 +1,8 @@
 public class FormDate {
-    public int[] month;
-    public int[] day;
-    public int[] year;
+    public int birthday[];
+    int day;
+    int month;
+    int year;
 
 }
 

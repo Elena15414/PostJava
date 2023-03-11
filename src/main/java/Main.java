@@ -11,8 +11,8 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
-        post.birthday.day = new int[]{13};
-        post.birthday.month = new int[]{6};
-        post.birthday.year = new int[]{1999};
+        post.birthday.day = 13;
+        post.birthday.month = 6;
+        post.birthday.year = 1999;
     }
 }
